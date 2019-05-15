@@ -5,8 +5,10 @@
 
 **下载phpMyAdmin**
 ```
-apt-get install https://files.phpmyadmin.net/phpMyAdmin/4.8.5/phpMyAdmin-4.8.5-all-languages.zip
+wget install https://files.phpmyadmin.net/phpMyAdmin/4.8.5/phpMyAdmin-4.8.5-all-languages.zip
 ```
+> wget Linux 下载工具   
+> wget [参数] [URL地址]
 
 **安装phpMyAdmin**
 ```
